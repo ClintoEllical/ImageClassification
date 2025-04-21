@@ -1,0 +1,18 @@
+# # Ignoring Dataset 
+# augmented_images
+# dataset_test
+# dataset_train
+
+# # Ignoring logs folder
+# logs
+
+# #Ignoring Output result folder
+# output
+
+# # Ignoring init.py files
+# **/__init__.py
+
+# # Ignoring Models
+# models/*.h5
+
+

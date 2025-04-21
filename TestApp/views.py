@@ -1,0 +1,6 @@
+from django.shortcuts import render
+
+from TestApp.viewset.payloadtest_viewset import PayloadView
+from TestApp.viewset.classification_viewset import ClassificationView
+from TestApp.viewset.list_models_viewset import ListModelsView
+from TestApp.viewset.multi_classification_viewset import MultiClassificationViewset

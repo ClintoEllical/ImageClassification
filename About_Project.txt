@@ -1,0 +1,33 @@
+This is the file for describing the detail of the project
+Create a project with classification models.
+This project can be used on the data which is going to be used in object detection
+We can use this project and specifically certain models mentioned for pre-processing the dataset.
+
+Classification models
+
+0-Cars 
+dataset: kaggle,google images
+purpose: to get images which has cars.
+
+1-Blur Detection Model
+Dataset: kaggle images converted to gausian blur with opencv2.
+Purpose: To filter out blur images from dataset.preproseccing of dataset
+
+2-Motion Blur Detection Model
+Dataset : kaggle images 
+Purpose : To filter out motion blur images can be used in preprosessing.
+
+3-Noise classification Model
+Dataset : kaggle
+Purpose : to filter out noice images
+
+4=Dark images classification Model
+Dataset: kaggle
+purpose: to filter dark images from the dataset
+
+
+FUTURE TRIES
+Overexposure Detection Model
+Empty Image Detection Model
+Camera Distortion or Lens Artifact Detection Model
+pretrained model for filtering duplicate images
